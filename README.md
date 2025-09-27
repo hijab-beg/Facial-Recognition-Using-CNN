@@ -1,7 +1,3 @@
-Here’s your content formatted in clean GitHub-ready Markdown:
-
----
-
 ## 1. Introduction
 
 The objective of this assignment is to explore the application of deep learning for affective computing, specifically for facial expression recognition. The task involves developing a system capable of analyzing facial images to perform two distinct but related tasks:
@@ -124,6 +120,4 @@ This assignment demonstrated multi-task deep learning for facial affect analysis
 
 The major limitation was **severe overfitting** across all architectures. Future improvements should prioritize regularization strategies such as early stopping, increased dropout, or learning rate scheduling to improve generalization and real-world applicability.
 
----
 
-Let me know if you want headings numbered, capitalized differently, or tables styled another way.
